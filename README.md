@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @arsham06
-im a game  developer and programmer i work with unity to make my games
+
+I'm a game developer and programmer i use c# to make my games
 
 <!---
 arsham06/arsham06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
